@@ -1,0 +1,16 @@
+@import url(http://www.fonts.googleapis.com/css?family=Varela+Round);
+
+
+h1 {
+
+    background-color: red;
+    color: white;
+    padding: 10px;
+
+}
+
+p {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
